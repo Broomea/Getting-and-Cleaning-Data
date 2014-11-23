@@ -32,7 +32,7 @@
 * fBodyAccJerkMag
 * fBodyGyroMag
 * fBodyGyroJerkMag
-###
+
 ###The set of variables that were estimated from these signals are: 
 ###
 ###mean(): Mean value
@@ -55,77 +55,77 @@
 ##
 ## The following is a list of the columns included in the tidy data file:
 ## 
-* Activity - 6 Activities were measured in this study:  
-   WALKING
-   WALKING_UPSTAIRS
-   WALKING_DOWNSTAIRS
-   SITTING
-   STANDING
-   LAYING
-*Subject - There were 30 subjects participating in this study
-*TimeBodyAccMeanXaxis
-*TimeBodyAccMeanYaxis
-*TimeBodyAccMeanZaxis
-*TimeGravityAccMeanXaxis
-*TimeGravityAccMeanYaxis
-*TimeGravityAccMeanZaxis
-*TimeBodyAccJerkMeanXaxis
-*TimeBodyAccJerkMeanYaxis
-*TimeBodyAccJerkMeanZaxis
-*TimeBodyGyroMeanXaxis
-*TimeBodyGyroMeanYaxis
-*TimeBodyGyroMeanZaxis
-*TimeBodyGyroJerkMeanXaxis
-*TimeBodyGyroJerkMeanYaxis
-*TimeBodyGyroJerkMeanZaxis
-*TimeBodyAccMagMean
-*TimeGravityAccMagMean
-*TimeBodyAccJerkMagMean
-*TimeBodyGyroMagMean
-*TimeBodyGyroJerkMagMean
-*FastBodyAccMeanXaxis	
-*FastBodyAccMeanYaxis
-*FastBodyAccMeanZaxis
-*FastBodyAccJerkMeanXaxis
-*FastBodyAccJerkMeanYaxis
-*FastBodyAccJerkMeanZaxis
-*FastBodyGyroMeanXaxis
-*FastBodyGyroMeanYaxis
-*FastBodyGyroMeanZaxis
-*FastBodyAccMagMean
-*FastBodyAccJerkMagMean
-*FastBodyGyroMagMean
-*FastBodyGyroJerkMagMean
-*TimeBodyAccStdXaxis
-*TimeBodyAccStdYaxis
-*TimeBodyAccStdZaxis
-*TimeGravityAccStdXaxis
-*TimeGravityAccStdYaxis
-*TimeGravityAccStdZaxis
-*TimeBodyAccJerkStdXaxis
-*TimeBodyAccJerkStdYaxis
-*TimeBodyAccJerkStdZaxis
-*TimeBodyGyroStdXaxis
-*TimeBodyGyroStdYaxis
-*TimeBodyGyroStdZaxis
-*TimeBodyGyroJerkStdXaxis
-*TimeBodyGyroJerkStdYaxis
-*TimeBodyGyroJerkStdZaxis
-*TimeBodyAccMagStd
-*TimeGravityAccMagStd
-*TimeBodyAccJerkMagStd
-*TimeBodyGyroMagStd
-*TimeBodyGyroJerkMagStd
-*FastBodyAccStdXaxis
-*FastBodyAccStdYaxis
-*FastBodyAccStdZaxis
-*FastBodyAccJerkStdXaxis
-*FastBodyAccJerkStdYaxis
-*FastBodyAccJerkStdZaxis
-*FastBodyGyroStdXaxis
-*FastBodyGyroStdYaxis
-*FastBodyGyroStdZaxis
-*FastBodyAccMagStd
-*FastBodyAccJerkMagStd
-*FastBodyGyroMagStd
-*FastBodyGyroJerkMagStd
+1.  Activity - 6 Activities were measured in this study:  
+    WALKING  
+    WALKING_UPSTAIRS  
+    WALKING_DOWNSTAIRS  
+    SITTING  
+    STANDING  
+    LAYING  
+2.  Subject - There were 30 subjects participating in this study
+3.  TimeBodyAccMeanXaxis
+4.  TimeBodyAccMeanYaxis
+5.  TimeBodyAccMeanZaxis
+6.  TimeGravityAccMeanXaxis
+7.  TimeGravityAccMeanYaxis
+8.  TimeGravityAccMeanZaxis
+9.  TimeBodyAccJerkMeanXaxis
+10. TimeBodyAccJerkMeanYaxis
+11. TimeBodyAccJerkMeanZaxis
+12. TimeBodyGyroMeanXaxis
+13. TimeBodyGyroMeanYaxis
+14. TimeBodyGyroMeanZaxis
+15. TimeBodyGyroJerkMeanXaxis
+16. TimeBodyGyroJerkMeanYaxis
+17. TimeBodyGyroJerkMeanZaxis
+18. TimeBodyAccMagMean
+19. TimeGravityAccMagMean
+20. TimeBodyAccJerkMagMean
+21. TimeBodyGyroMagMean
+22. TimeBodyGyroJerkMagMean
+23. FastBodyAccMeanXaxis	
+24. FastBodyAccMeanYaxis
+25. FastBodyAccMeanZaxis
+26. FastBodyAccJerkMeanXaxis
+27. FastBodyAccJerkMeanYaxis
+28. FastBodyAccJerkMeanZaxis
+29. FastBodyGyroMeanXaxis
+30. FastBodyGyroMeanYaxis
+31. FastBodyGyroMeanZaxis
+32. FastBodyAccMagMean
+33. FastBodyAccJerkMagMean
+34. FastBodyGyroMagMean
+35. FastBodyGyroJerkMagMean
+36. TimeBodyAccStdXaxis
+37. TimeBodyAccStdYaxis
+38. TimeBodyAccStdZaxis
+39. TimeGravityAccStdXaxis
+40. TimeGravityAccStdYaxis
+41. TimeGravityAccStdZaxis
+42. TimeBodyAccJerkStdXaxis
+43. TimeBodyAccJerkStdYaxis
+44. TimeBodyAccJerkStdZaxis
+45. TimeBodyGyroStdXaxis
+46. TimeBodyGyroStdYaxis
+47. TimeBodyGyroStdZaxis
+48. TimeBodyGyroJerkStdXaxis
+49. TimeBodyGyroJerkStdYaxis
+50. TimeBodyGyroJerkStdZaxis
+51. TimeBodyAccMagStd
+52. TimeGravityAccMagStd
+53. TimeBodyAccJerkMagStd
+54. TimeBodyGyroMagStd
+55. TimeBodyGyroJerkMagStd
+56. FastBodyAccStdXaxis
+57. FastBodyAccStdYaxis
+58. FastBodyAccStdZaxis
+59. FastBodyAccJerkStdXaxis
+60. FastBodyAccJerkStdYaxis
+61. FastBodyAccJerkStdZaxis
+62. FastBodyGyroStdXaxis
+63. FastBodyGyroStdYaxis
+64. FastBodyGyroStdZaxis
+65. FastBodyAccMagStd
+66. FastBodyAccJerkMagStd
+67. FastBodyGyroMagStd
+68. FastBodyGyroJerkMagStd

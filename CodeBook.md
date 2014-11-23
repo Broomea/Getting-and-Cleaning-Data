@@ -15,23 +15,23 @@
 ###These signals were used to estimate variables of the feature vector for each pattern:  
 ###'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 ###
-*tBodyAcc-XYZ
-*tGravityAcc-XYZ
-*tBodyAccJerk-XYZ
-*tBodyGyro-XYZ
-*tBodyGyroJerk-XYZ
-*tBodyAccMag
-*tGravityAccMag
-*tBodyAccJerkMag
-*tBodyGyroMag
-*tBodyGyroJerkMag
-*fBodyAcc-XYZ
-*fBodyAccJerk-XYZ
-*fBodyGyro-XYZ
-*fBodyAccMag
-*fBodyAccJerkMag
-*fBodyGyroMag
-*fBodyGyroJerkMag
+* tBodyAcc-XYZ
+* tGravityAcc-XYZ
+* tBodyAccJerk-XYZ
+* tBodyGyro-XYZ
+* tBodyGyroJerk-XYZ
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyGyroJerkMag
+* fBodyAcc-XYZ
+* fBodyAccJerk-XYZ
+* fBodyGyro-XYZ
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroMag
+* fBodyGyroJerkMag
 ###
 ###The set of variables that were estimated from these signals are: 
 ###
@@ -47,15 +47,15 @@
 ###
 ##
 ## Some modifications were made to the original data from the study to create a tidy data file containing only mean and standard deviation data. 
-*The Column Names in this dataset were changed to remove invalid characters:  for example:  ()
-*For columns that end in X, Y, or Z, specified Xaxis, Yaxis, and Zaxis per the description in the features_info.txt document to better describe the data
-*Column names with a ‘t’ prefix indicate the time domain signals so the 't’ prefix was changed to Time as documented in the features_info.txt document.
-*Changed the column names with a ‘f’ prefix to Fast (short for Fast Fourier Transform) as documented in the features_info.txt document.
-*Changed the column names that included BodyBody to contain only a single Body because the features_info.txt document contains no reference to a BodyBody measurement.
+* The Column Names in this dataset were changed to remove invalid characters:  for example:  ()
+* For columns that end in X, Y, or Z, specified Xaxis, Yaxis, and Zaxis per the description in the features_info.txt document to better describe the data
+* Column names with a ‘t’ prefix indicate the time domain signals so the 't’ prefix was changed to Time as documented in the features_info.txt document.
+* Changed the column names with a ‘f’ prefix to Fast (short for Fast Fourier Transform) as documented in the features_info.txt document.
+* Changed the column names that included BodyBody to contain only a single Body because the features_info.txt document contains no reference to a BodyBody measurement.
 ##
 ## The following is a list of the columns included in the tidy data file:
 ## 
-*Activity - 6 Activities were measured in this study:  
+* Activity - 6 Activities were measured in this study:  
    WALKING
    WALKING_UPSTAIRS
    WALKING_DOWNSTAIRS

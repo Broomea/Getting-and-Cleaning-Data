@@ -33,18 +33,18 @@
 * fBodyGyroMag
 * fBodyGyroJerkMag
 
-###The set of variables that were estimated from these signals are: 
-###
-###mean(): Mean value
-###std(): Standard deviation
-###
-###Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
-###
-###tBodyAccMean
-###tBodyAccJerkMean
-###tBodyGyroMean
-###tBodyGyroJerkMean
-###
+###The set of variables that were estimated from these signals are:  
+
+* mean(): Mean value
+* std(): Standard deviation  
+
+###Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:  
+
+* tBodyAccMean
+* tBodyAccJerkMean
+* tBodyGyroMean
+* tBodyGyroJerkMean  
+
 ## Some modifications were made to the original data from the study to create a tidy data file containing only mean and standard deviation data. 
 * The Column Names in this dataset were changed to remove invalid characters:  for example:  ()
 * For columns that end in X, Y, or Z, specified Xaxis, Yaxis, and Zaxis per the description in the features_info.txt document to better describe the data
